@@ -63,7 +63,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Factorial of 500!](https://mhcsedu.blogspot.com/2021/04/factorial-of-500.html)
+- [Modular multiplicative inverse](https://mhcsedu.blogspot.com/2020/11/modular-multiplicative-inverse-if-m-is.html)
+- [Learn 6 Sorting Algorithm in ONE CODE!](https://mhcsedu.blogspot.com/2020/12/learn-6-sorting-algorithm-in-one-code.html)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://mhcsedu.blogspot.com/)
 
 ---
 
@@ -71,7 +76,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="MAHMUD's GitHub Stats" src="https://github-readme-stats.Eulers2020.vercel.app/api?username=Eulers2020&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eulers2020&show_icons=true&hide_border=true" />
 
 </details>
 

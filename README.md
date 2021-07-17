@@ -63,12 +63,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Factorial of 500!](https://mhcsedu.blogspot.com/2021/04/factorial-of-500.html)
-- [Modular multiplicative inverse](https://mhcsedu.blogspot.com/2020/11/modular-multiplicative-inverse-if-m-is.html)
-- [Learn 6 Sorting Algorithm in ONE CODE!](https://mhcsedu.blogspot.com/2020/12/learn-6-sorting-algorithm-in-one-code.html)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://mhcsedu.blogspot.com/)
 
 ---
 

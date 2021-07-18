@@ -18,12 +18,18 @@
 
 ## Connect with me:
 
+
 [<img  alt="https://mhcsedu.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img  alt="Mahmud1729 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img  alt="eulers1728 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img  alt="euler1729 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img alt="mahmud_hasan_1729 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-
+<html>
+  <!--script async="" defer="" src="https://platform.linkedin.com/badges/js/profile.js" type="text/javascript"></script-->
+  <body>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="euler1729" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/euler1729?trk=profile-badge">Mahmudul Hasan</a></div>
+  </body>
+</html>
 <br />
 
 <!--details-->

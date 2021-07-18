@@ -81,6 +81,10 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eulers2020&show_icons=true&hide_border=true" />
+</details>
 
 
 

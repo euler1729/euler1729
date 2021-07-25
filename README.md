@@ -1,4 +1,4 @@
-### Hi there, I'm MAHMUD - [@euler1729][GitHub] 👋
+### Hi there, I'm MAHMUD-[@euler1729][GitHub] 👋
 
 [![Website](https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mhcsedu.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eulers1729?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feulers1729&screen_name=eulers1729)

@@ -1,4 +1,4 @@
-### Hi there, I'm MAHMUD - [@Eulers2020][GitHub] 👋
+### Hi there, I'm MAHMUD - [@euler1729][GitHub] 👋
 
 [![Website](https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mhcsedu.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eulers1729?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feulers1729&screen_name=eulers1729)
@@ -93,7 +93,7 @@
 [youtube]: https://www.youtube.com/channel/UCTYC-Qzv_uABEmHFZ3-c13g
 [instagram]: https://www.instagram.com/mahmud_hasan_1729/
 [linkedin]: https://www.linkedin.com/in/euler1729/
-[GitHub]: https://github.com/Eulers2020/
+[GitHub]: https://github.com/euler1729/
 [vscode]: https://visualstudio.microsoft.com/
 [html5]: https://www.w3schools.com/html/
 [saas]: https://www.salesforce.com/in/saas/

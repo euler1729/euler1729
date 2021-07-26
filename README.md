@@ -2,6 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mhcsedu.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eulers1729?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feulers1729&screen_name=eulers1729)
+```javascript
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="euler1729" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/euler1729?trk=profile-badge">Mahmudul Hasan</a></div>
+```
+
 
 ### Spotify Playing 🎧
 
@@ -36,7 +41,7 @@
   <!--summary>:zap: GitHub Stats</summary-->
 ### GitHub stats:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Eulers2020&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=euler1729&show_icons=true&hide_border=true" />
 <!--/details-->
 
 ### Languages and Tools:

@@ -1,13 +1,14 @@
 ### Hi there, I'm MAHMUD-[@euler1729][linkedin] 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euler1729&label=Profile%20views&color=0e75b6&style=flat" alt="euler1729" /> </p>
 
 [![Website](https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mhcsedu.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eulers1729?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feulers1729&screen_name=eulers1729)
 
 
-### Spotify Playing 🎧
+<!---### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31agdhjcr4xzlwpvnlj2vjtmpm2q?si=b1e424e3cf364e6f)
-
+---->
 ## I'm a Student, Developer and Instructor!!
 
 - 👨‍💻 I’m currently learning everything 🤣

@@ -4,23 +4,18 @@
 [![Website](https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mhcsedu.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eulers1729?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feulers1729&screen_name=eulers1729)
 
-
-<!---### Spotify Playing 🎧
-
+<!---
+### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31agdhjcr4xzlwpvnlj2vjtmpm2q?si=b1e424e3cf364e6f)
 ---->
-## I'm a Student, Developer and Instructor!!
+### I'm a Student, Developer and Instructor!!
 
 - 👨‍💻 I’m currently learning everything 🤣
 - 👬 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects and complete a project in JAVA.
 - ⚡  I love to watch Football and play Cricket.
 
-<br/>
-
-## Connect with me:
-
-
+##  CONNECT WITH ME
 [<img  alt="https://mhcsedu.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img  alt="Mahmud1729 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img  alt="eulers1729 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
@@ -36,13 +31,13 @@
 
 <!--details-->
   <!--summary>:zap: GitHub Stats</summary-->
-### GitHub stats:
-
+## GitHub STATS
   <img src="https://github-readme-stats.vercel.app/api?username=euler1729&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euler1729&" alt="euler1729" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euler1729&show_icons=true&locale=en&layout=compact" alt="euler1729" />
 <!--/details-->
 
-### Languages and Tools:
-
+## LANGUAGES AND TOOLS
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][html5]
@@ -62,6 +57,15 @@
 
 <br />
 <br />
+
+## IN NEAR FUTURE
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Athos-C#" height="60" width="60" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
+  <img align="center" alt="Athos-swift" height="60" width="80" src="https://ideias.avancadas.info/images/Apple-Swift.png">
+  <img align="center" alt="Athos-php" height="60" width="80" src="http://ivaldo.dev/wp-content/uploads/2020/08/php-1-logo-png-transparent.png">
+  <img align="center" alt="Athos-java" height="80" width="80" src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png">
+  <img align="center" alt="Athos-androide" height="80" width="80" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
+</div>
 
 ---
 
@@ -86,6 +90,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=euler1729&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euler1729&" alt="euler1729" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euler1729&show_icons=true&locale=en&layout=compact" alt="euler1729" />
 </details>
 
 

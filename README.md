@@ -57,15 +57,14 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 
-## IN NEAR FUTURE
-<div style="display: inline_block"><br>
+<h2> IN NEAR FUTURE </h2>
+<p>
   <img align="center" alt="Athos-C#" height="60" width="60" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
   <img align="center" alt="Athos-swift" height="60" width="80" src="https://ideias.avancadas.info/images/Apple-Swift.png">
   <img align="center" alt="Athos-php" height="60" width="80" src="http://ivaldo.dev/wp-content/uploads/2020/08/php-1-logo-png-transparent.png">
   <img align="center" alt="Athos-java" height="80" width="80" src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png">
   <img align="center" alt="Athos-androide" height="80" width="80" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
-</div>
-
+</p>
 ---
 
 ## 📺 Latest YouTube Videos

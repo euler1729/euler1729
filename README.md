@@ -1,13 +1,17 @@
 ### Hi there, I'm MAHMUD-[@euler1729][linkedin] 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=euler1729&label=Profile%20views&color=0e75b6&style=flat" alt="euler1729" /> </p>
 
-[![Website](https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mhcsedu.blogspot.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eulers1729?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feulers1729&screen_name=eulers1729)
+<div align="left" style="margin: 40px 0">
+    <a href="https://github.com/euler1729/github-profile-views-counter"">
+        <img src="https://komarev.com/ghpvc/?username=euler1729&label=Profile%20views&color=0e75b6&style=flat" alt="euler1729" />
+    </a>
+    <a href="https://github.com/euler1729?tab=followers">
+        <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/euler1729?style=flat-square">
+    </a>
+    <a href="https://mhcsedu.blogspot.com/">
+      <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/website?label=CODEblog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com">
+    </a>
+</div>
 
-<!---
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31agdhjcr4xzlwpvnlj2vjtmpm2q?si=b1e424e3cf364e6f)
----->
 ### I'm a Student, Developer and Instructor!!
 
 - 👨‍💻 I’m currently learning everything 🤣
@@ -16,12 +20,21 @@
 - ⚡  I love to watch Football and play Cricket.
 
 ##  CONNECT WITH ME
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin] 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=red)][instagram] 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=skyblue)][twitter] 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=red)][youtube] 
+[![Website Badge](https://img.shields.io/badge/Web-Blog-informational?style=flat&logo=website&logoColor=white&color=violet)][website] 
+
+<!---
 [<img  alt="https://mhcsedu.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img  alt="Mahmud1729 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img  alt="eulers1729 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img  alt="euler1729 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img alt="mahmud_hasan_1729 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-<html>
+--->
+<html>                                                                                                                                                                                                                                                 
   <!--script async="" defer="" src="https://platform.linkedin.com/badges/js/profile.js" type="text/javascript"></script-->
   <body>
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="euler1729" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/euler1729?trk=profile-badge">Mahmudul Hasan</a></div>
@@ -30,12 +43,13 @@
 <br />
 
 <!--details-->
-  <!--summary>:zap: GitHub Stats</summary-->
+<!--summary>:zap: GitHub Stats</summary-->
 ## GitHub STATS
-  <img src="https://github-readme-stats.vercel.app/api?username=euler1729&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euler1729&" alt="euler1729" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euler1729&show_icons=true&locale=en&layout=compact" alt="euler1729" />
-<!--/details-->
+![euler1729's GitHub stats](https://github-readme-stats.vercel.app/api?username=euler1729&show_icons=true&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=euler1729&show_icons=true&theme=dark" alt="euler1729" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euler1729&layout=compact&theme=dark)](https://github.com/euler1729/github-readme-stats)
+<img src="https://activity-graph.herokuapp.com/graph?username=euler1729&theme=xcode" />
+
 
 ## LANGUAGES AND TOOLS
 

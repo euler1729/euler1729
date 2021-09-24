@@ -25,7 +25,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=red)][instagram] 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=skyblue)][twitter]
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=blue)][facebook]
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=red)][youtube] 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=white&color=red)][youtube] 
 [![Blog Badge](https://img.shields.io/badge/CODE-blog-informational?style=flat&logo=blogger&logoColor=white&color=violet)][website] 
 
 <!---

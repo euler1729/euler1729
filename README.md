@@ -23,9 +23,10 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin] 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=red)][instagram] 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=skyblue)][twitter] 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=skyblue)][twitter]
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=blue)][facebook]
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=red)][youtube] 
-[![Website Badge](https://img.shields.io/badge/Web-Blog-informational?style=flat&logo=website&logoColor=white&color=violet)][website] 
+[![Blog Badge](https://img.shields.io/badge/CODE-blog-informational?style=flat&logo=blogger&logoColor=white&color=violet)][website] 
 
 <!---
 [<img  alt="https://mhcsedu.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
@@ -111,6 +112,7 @@
 
 [website]: https://mhcsedu.blogspot.com/
 [twitter]: https://twitter.com/eulers1729
+[facebook]: https://www.facebook.com/euler1729
 [youtube]: https://www.youtube.com/channel/UCTYC-Qzv_uABEmHFZ3-c13g
 [instagram]: https://www.instagram.com/mahmud_hasan_1729/
 [linkedin]: https://www.linkedin.com/in/euler1729/

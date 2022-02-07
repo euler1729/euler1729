@@ -15,8 +15,8 @@
 ### I'm a Student, Developer and Instructor!!
 
 - 👨‍💻 I’m currently learning everything 🤣
-- 👬 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects and complete a project in JAVA.
+- 👬 I’m looking to collaborate with other content creators, developers.
+- 🥅 2022 Goals: Contribute more to Open Source projects and complete some projects in JAVA, NodeJS and ReactJS.
 - ⚡  I love to watch Football and play Cricket.
 
 ##  CONNECT WITH ME

@@ -33,7 +33,7 @@
 [<img  alt="Mahmud1729 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img  alt="eulers1729 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img  alt="euler1729 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img alt="mahmud_hasan_1729 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img alt="euler_1729 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 --->
 <html>                                                                                                                                                                                                                                                 
   <!--script async="" defer="" src="https://platform.linkedin.com/badges/js/profile.js" type="text/javascript"></script-->
@@ -70,7 +70,10 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-
+[<img align="left" alt="Athos-java" width="26px" 
+src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png" />][java]
+[<img align="center" alt="Athos-androide" width="26px" style="margin-left:5px"
+src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />][android_studio]
 <br />
 
 ## IN NEAR FUTURE
@@ -78,8 +81,7 @@
   <img align="center" alt="Athos-C#" height="60" width="60" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
   <img align="center" alt="Athos-swift" height="60" width="80" src="https://ideias.avancadas.info/images/Apple-Swift.png">
   <img align="center" alt="Athos-php" height="60" width="80" src="http://ivaldo.dev/wp-content/uploads/2020/08/php-1-logo-png-transparent.png">
-  <img align="center" alt="Athos-java" height="80" width="80" src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png">
-  <img align="center" alt="Athos-androide" height="80" width="80" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
+ 
 </p>
 ---
 
@@ -131,3 +133,5 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+[java]: [https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png](https://www.java.com/en/)
+[android_studio]: https://developer.android.com/

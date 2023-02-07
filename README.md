@@ -12,11 +12,11 @@
     </a>
 </div>
 
-### I'm a Student, Developer and Instructor!!
+### I'm a Student, Developer, Instructor and Researcher!!
 
-- 👨‍💻 I’m currently learning everything 🤣
-- 👬 I’m looking to collaborate with other content creators, developers.
-- 🥅 2022 Goals: Contribute more to Open Source projects and complete some projects in JAVA, NodeJS and ReactJS.
+- 👨‍💻 Currently working in AI, Blockchain.
+- 👬 I’m looking to collaborate with other content creators, developers and researchers.
+- 🥅 2023 Goals: Building strong knowledge about AI and Blockchain. 
 - ⚡  I love to watch Football and play Cricket.
 
 ##  CONNECT WITH ME
@@ -107,7 +107,7 @@ src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc
 [twitter]: https://twitter.com/eulers1729
 [facebook]: https://www.facebook.com/euler1729
 [youtube]: https://www.youtube.com/channel/UCTYC-Qzv_uABEmHFZ3-c13g
-[instagram]: https://www.instagram.com/mahmud_hasan_1729/
+[instagram]: https://www.instagram.com/euler_1729/
 [linkedin]: https://www.linkedin.com/in/euler1729/
 [GitHub]: https://github.com/euler1729/
 [vscode]: https://visualstudio.microsoft.com/

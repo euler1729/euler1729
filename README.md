@@ -12,12 +12,16 @@
     </a>
 </div>
 
-### I'm a Student, Developer, Instructor and Researcher!!
+### I'm a Student, Developer, Instructor, and Researcher!!
 
-- 👨‍💻 Currently working in AI, Blockchain.
-- 👬 I’m looking to collaborate with other content creators, developers and researchers.
+- 👨‍💻 Currently working in AI.
+- 👬 I’m looking to collaborate with other content creators, developers, and researchers.
 - 🥅 2023 Goals: Building strong knowledge about AI and Blockchain. 
 - ⚡  I love to watch Football and play Cricket.
+
+## Hackathons
+![Javafest](https://custom-icon-badges.demolab.com/badge/Therap-Javafest-2022.svg?logo=therap%20javafest%202022&color=f4d00c)
+![Code Samurai](https://custom-icon-badges.demolab.com/badge/Code-Samurai-2022.svg?logo=code%20samurai&color=5bb450)
 
 ##  CONNECT WITH ME
 

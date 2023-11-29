@@ -30,8 +30,8 @@
 [![Blog Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)][website] 
 
 ## Hackathons
-![Javafest](https://custom-icon-badges.demolab.com/badge/Therap-Javafest-2022.svg?logo=therap%20javafest%202022&color=f4d00c)
-![Code Samurai](https://custom-icon-badges.demolab.com/badge/Code-Samurai-2022.svg?logo=code%20samurai&color=5bb450)
+![Javafest](https://custom-icon-badges.demolab.com/badge/Therap-Javafest-2022.svg?style=for-the-badge&logo=therap%20javafest%202022&color=f4d00c)
+![Code Samurai](https://custom-icon-badges.demolab.com/badge/Code-Samurai-2022.svg?style=for-the-badge&logo=code%20samurai&color=5bb450)
 
 ##  LANGUAGES
 

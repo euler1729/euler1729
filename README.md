@@ -31,7 +31,7 @@
 
 ## Hackathons
 ![Javafest](https://custom-icon-badges.demolab.com/badge/Therap%20Javafest-2022.svg?style=for-the-badge&logo=therap%20javafest%202022&color=f4d00c)
-![Code Samurai](https://custom-icon-badges.demolab.com/badge/Code%20Samurai-2022.svg?style=for-the-badge&logo=code%20samurai&color=000080&logoColor=white)
+![Code Samurai](https://custom-icon-badges.demolab.com/badge/CODE%20SAMURAI-2022.svg?style=for-the-badge&logo=code%20samurai%20bd&color=000080&logoColor=white)
 
 ##  LANGUAGES
 

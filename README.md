@@ -12,12 +12,11 @@
     </a>
 </div>
 
-### I'm a Student, Developer, Instructor, and Researcher!!
+### I'm a Student, Developer, Instructor, and Researcher!
 
-- 👨‍💻 Currently working in AI.
-- 👬 I’m looking to collaborate with other content creators, developers, and researchers.
-- 🥅 2023 Goals: Building strong knowledge about AI and Blockchain. 
-- ⚡  I love to watch Football and play Cricket.
+- 👨‍💻 Currently working in Artificial Intelligence  
+- 🤝 Looking to collaborate with content creators, developers, and fellow researchers  
+- 🎯 2025 Goal: Build and grow [CognistormAI](https://cognistorm.ai/)
 
 
 ##  CONNECT WITH ME
